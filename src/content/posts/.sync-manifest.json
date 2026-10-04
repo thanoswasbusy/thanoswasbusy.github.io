@@ -1,4 +1,7 @@
 {
-	"_templates/Blog post.md": "43324f390e37be92ae7ed9330b5a9a9e8caf8337",
-	"kotsu-nvim-devlog-1.md": "2677813caadd762ba5db7789942ba3b104c5edb2"
+	"_templates/Devlog.md": "44d06e656a5097c7652cad70c8a8eac5b599db36",
+	"_templates/Life post.md": "4d9b368cf820a20254f46e3a6c83bfd331e9295e",
+	"_templates/Story.md": "d39910b723a455b79709fd753b24e5aad5873ae9",
+	"_templates/Writing post.md": "43324f390e37be92ae7ed9330b5a9a9e8caf8337",
+	"kotsu-nvim.md": "baca1f7e84f8ca46ac683391cbbd64afe65a9fa6"
 }

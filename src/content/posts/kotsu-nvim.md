@@ -1,5 +1,5 @@
 ---
-title: "kotsu.nvim #1: asking Neovim how to do things"
+title: "kotsu.nvim: asking Neovim how to do things"
 description: Why I started a Neovim plugin that answers "how do I…" with key sequences.
 slug: kotsu-nvim-devlog-1
 section: devlogs
@@ -10,3 +10,4 @@ tags:
   - neovim
   - kotsu.nvim
 ---
+Why I started kotsu.nvim
