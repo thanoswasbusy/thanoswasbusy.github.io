@@ -1,4 +1,4 @@
-export const SITE_URL = "https://thanoswasbusy.com";
+export const SITE_URL = "https://thanostheodosiou.com";
 
 export const SITE = {
 	name: "Thanos Theodosiou",
@@ -9,7 +9,7 @@ export const SITE = {
 };
 
 export const LINKS = {
-	email: "thanosthd@gmail.com",
+	email: "hello@thanostheodosiou.com",
 	github: "https://github.com/thanoswasbusy",
 	linkedin: "https://www.linkedin.com/in/thanos-theodosiou/",
 	instagram: "https://www.instagram.com/thanoswasbusy/",
